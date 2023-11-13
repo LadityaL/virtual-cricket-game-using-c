@@ -1,0 +1,3 @@
+C:/Users/ak587/Downloads/C++ project/cmake-build-debug/CMakeFiles/C___project.dir
+C:/Users/ak587/Downloads/C++ project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ak587/Downloads/C++ project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
